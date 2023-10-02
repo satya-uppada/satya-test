@@ -32,7 +32,7 @@
   </a>
 </p>
 
-## Prerequisites
+## Prerequisites.
 
 In order to run the project we need the following software binaries installed on our development machines:
 
